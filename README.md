@@ -13,9 +13,9 @@ Discord: Link_911#0001
 
 Fun fact: I like cookies!
 
-##Released Stuff:
+## Released Stuff:
 
-##Cursed Mod for Fabric
+## Cursed Mod for Fabric
 
 Modrinth: https://modrinth.com/mod/cursedmod
 
