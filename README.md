@@ -22,3 +22,8 @@ Fun fact: I like cookies!
 Modrinth: https://modrinth.com/mod/cursedmod
 
 CurseForge: https://www.curseforge.com/minecraft/mc-mods/cursed-mod-for-fabric
+
+
+##Github Stats
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Link4real)](https://github.com/anuraghazra/github-readme-stats)
