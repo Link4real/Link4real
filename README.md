@@ -30,5 +30,3 @@ CurseForge: https://www.curseforge.com/minecraft/mc-mods/cursed-mod-for-fabric
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Link4real)](https://github.com/anuraghazra/github-readme-stats)
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Link4real)](https://github.com/anuraghazra/github-readme-stats)
-
