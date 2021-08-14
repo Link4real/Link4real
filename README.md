@@ -17,7 +17,7 @@ Fun fact: I like cookies!
 
 ## Released Stuff:
 
-## Cursed Mod for Fabric
+### Cursed Mod for Fabric
 
 Modrinth: https://modrinth.com/mod/cursedmod
 
