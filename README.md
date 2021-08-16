@@ -23,6 +23,8 @@ Modrinth: https://modrinth.com/mod/cursedmod
 
 CurseForge: https://www.curseforge.com/minecraft/mc-mods/cursed-mod-for-fabric
 
+Website: https://link4real.github.io/cursed-mod
+
 
 ## Github Stats
 
