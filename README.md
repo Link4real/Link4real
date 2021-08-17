@@ -21,7 +21,7 @@ Fun fact: I like cookies!
 
 Modrinth: "Under Review"
 
-CurseForge: "Under Review"
+CurseForge: https://www.curseforge.com/minecraft/mc-mods/foodmod-for-fabric
 
 Website: https://link4real.github.io/food
 
