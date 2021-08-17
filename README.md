@@ -17,6 +17,14 @@ Fun fact: I like cookies!
 
 ## Released Stuff:
 
+###FoodMod for Fabric
+
+Modrinth: "Under Review"
+
+CurseForge: "Under Review"
+
+Website: https://link4real.github.io/food
+
 ### Cursed Mod for Fabric
 
 Modrinth: https://modrinth.com/mod/cursedmod
