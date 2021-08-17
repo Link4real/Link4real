@@ -17,7 +17,7 @@ Fun fact: I like cookies!
 
 ## Released Stuff:
 
-###FoodMod for Fabric
+### FoodMod for Fabric
 
 Modrinth: "Under Review"
 
