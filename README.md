@@ -19,7 +19,7 @@ Fun fact: I like cookies!
 
 ### FoodMod for Fabric
 
-Modrinth: "Under Review"
+Modrinth: https://modrinth.com/mod/foodmod
 
 CurseForge: https://www.curseforge.com/minecraft/mc-mods/foodmod-for-fabric
 
