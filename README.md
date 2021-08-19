@@ -5,7 +5,7 @@
 # o(*°▽°*)o
 
 
-I’m currently working on a Minecraft Food Mod for Fabric and a website!
+I’m currently not working, I am enyoing my vacation!
 
 I’m currently learning Html, Java and JavaScript!
 
