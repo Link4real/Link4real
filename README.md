@@ -5,7 +5,7 @@
 # o(*°▽°*)o
 
 
-I’m currently not working, I am enyoing my vacation!
+I’m currently nworking on a FoodMod for Fabric and a website.
 
 I’m currently learning Html, Java and JavaScript!
 
