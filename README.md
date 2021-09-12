@@ -11,7 +11,7 @@ I joined Github at January 14, 2021!
 
 How to reach me: 
 
-Discord: Link_911#0001
+Discord: Link_911#3798
 
 Fun fact: I like cookies!
 
