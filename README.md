@@ -7,6 +7,8 @@
 
 I’m currently learning Html, Java and JavaScript!
 
+I joined January 14, 2021!
+
 How to reach me: 
 
 Discord: Link_911#0001
