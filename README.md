@@ -5,9 +5,9 @@
 # o(*°▽°*)o
 
 
-I’m currently learning Html, Java and JavaScript!
+I’m currently learning Html and Java!
 
-I joined January 14, 2021!
+I joined Github at January 14, 2021!
 
 How to reach me: 
 
