@@ -4,8 +4,6 @@
 
 # o(*°▽°*)o
 
-/play secret
-
 I’m currently learning Html and Java!
 
 I joined Github at January 14, 2021!
