@@ -4,7 +4,7 @@
 
 # o(*°▽°*)o
 
-I’m currently learning Html and Java!
+I’m currently learning Html, Java and C#
 
 I joined Github at January 14, 2021!
 
