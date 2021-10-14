@@ -1,6 +1,6 @@
 # IT'S ME, LINK 
 
-<img valign="middle" src="https://i.imgur.com/y5JmwC6.png" width="120px">
+<img valign="middle" src="https://i.imgur.com/y5JmwC6.png" width="1200px">
 
 # o(*°▽°*)o
 
