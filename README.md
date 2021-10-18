@@ -37,5 +37,5 @@ Website: https://link4real.github.io/cursed-mod
 
 ![Link4Real's GitHub stats](https://github-readme-stats.vercel.app/api?username=link4real&show_icons=true&theme=tokyonight)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Link4real&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats&langs_count=10)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Link4real&theme=tokyonight&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
 
