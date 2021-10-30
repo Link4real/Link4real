@@ -18,7 +18,7 @@ Fun fact: I like cookies!
 
 ### Cake Mod
 
-Modrinth: https://modrinth.com/mod/cakemod
+Modrinth: https://modrinth.com/mod/cake
 
 Curseforge: https://www.curseforge.com/minecraft/mc-mods/cake-mod
 
@@ -32,7 +32,7 @@ Website: https://link4real.github.io/food
 
 ### Cursed Mod for Fabric
 
-Modrinth: https://modrinth.com/mod/cursedmod
+Modrinth: https://modrinth.com/mod/cursed
 
 CurseForge: https://www.curseforge.com/minecraft/mc-mods/cursed-mod-for-fabric
 
