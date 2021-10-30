@@ -16,6 +16,12 @@ Fun fact: I like cookies!
 
 ## Released Stuff:
 
+### Cake Mod
+
+Modrinth: https://modrinth.com/mod/cakemod
+
+Curseforge: https://www.curseforge.com/minecraft/mc-mods/cake-mod
+
 ### FoodMod for Fabric
 
 Modrinth: https://modrinth.com/mod/foodmod
