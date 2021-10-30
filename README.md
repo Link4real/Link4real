@@ -22,6 +22,8 @@ Modrinth: https://modrinth.com/mod/cake
 
 Curseforge: https://www.curseforge.com/minecraft/mc-mods/cake-mod
 
+Website: https://link4real.github.io/cake
+
 ### FoodMod for Fabric
 
 Modrinth: https://modrinth.com/mod/foodmod
