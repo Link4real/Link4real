@@ -6,7 +6,7 @@ Cureforge: https://www.curseforge.com/minecraft/mc-mods/plushie-mod
 
 Website: https://link4real.github.io/plushie.html
 
-<img src="https://i.imgur.com/yXVPiJK.png" width="1017px" height="1920">
+<img src="https://i.imgur.com/yXVPiJK.png">
 
 # Cake Mod
 
@@ -16,7 +16,7 @@ Curseforge: https://www.curseforge.com/minecraft/mc-mods/cake-mod
 
 Website: https://link4real.github.io/cake.html
 
-<img src="https://i.imgur.com/bKzQHVe.png" width="1017px" height="1920">
+<img src="https://i.imgur.com/bKzQHVe.png">
 
 # FoodMod for Fabric
 
@@ -26,7 +26,7 @@ CurseForge: https://www.curseforge.com/minecraft/mc-mods/foodmod-for-fabric
 
 Website: https://link4real.github.io/food.html
 
-<img src="https://i.imgur.com/yjmRpEM.png" width="1017px" height="1920">
+<img src="https://i.imgur.com/yjmRpEM.png">
 
 # Cursed Mod for Fabric
 
@@ -36,4 +36,4 @@ CurseForge: https://www.curseforge.com/minecraft/mc-mods/cursed-mod-for-fabric
 
 Website: https://link4real.github.io/cursed-mod.html
 
-<img src="https://i.imgur.com/8Vzs2Eo.png" width="1017px" height="1920">
+<img src="https://i.imgur.com/8Vzs2Eo.png">
