@@ -16,7 +16,7 @@ Fun fact: I like cookies!
 
 ## Released Stuff:
 
-<p><a href="Projects.md">All Projects</p>
+<p>View all projects<a href="Projects.md"> here</p>
 
 ## Github Stats
 
