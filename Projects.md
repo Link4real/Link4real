@@ -6,6 +6,8 @@ Cureforge: https://www.curseforge.com/minecraft/mc-mods/plushie-mod
 
 Website: https://link4real.github.io/plushie.html
 
+<img src="https://i.imgur.com/yXVPiJK.png">
+
 ## Cake Mod
 
 Modrinth: https://modrinth.com/mod/cake
@@ -13,6 +15,8 @@ Modrinth: https://modrinth.com/mod/cake
 Curseforge: https://www.curseforge.com/minecraft/mc-mods/cake-mod
 
 Website: https://link4real.github.io/cake.html
+
+<img src="https://i.imgur.com/bKzQHVe.png">
 
 ## FoodMod for Fabric
 
