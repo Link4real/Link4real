@@ -1,4 +1,4 @@
-## Plushie Mod
+# Plushie Mod
 
 Modrinth: https://modrinth.com/mod/plushie
 
@@ -8,7 +8,7 @@ Website: https://link4real.github.io/plushie.html
 
 <img src="https://i.imgur.com/yXVPiJK.png">
 
-## Cake Mod
+# Cake Mod
 
 Modrinth: https://modrinth.com/mod/cake
 
@@ -18,7 +18,7 @@ Website: https://link4real.github.io/cake.html
 
 <img src="https://i.imgur.com/bKzQHVe.png">
 
-## FoodMod for Fabric
+# FoodMod for Fabric
 
 Modrinth: https://modrinth.com/mod/foodmod
 
@@ -26,10 +26,14 @@ CurseForge: https://www.curseforge.com/minecraft/mc-mods/foodmod-for-fabric
 
 Website: https://link4real.github.io/food.html
 
-## Cursed Mod for Fabric
+<img src="https://i.imgur.com/yjmRpEM.png">
+
+# Cursed Mod for Fabric
 
 Modrinth: https://modrinth.com/mod/cursed
 
 CurseForge: https://www.curseforge.com/minecraft/mc-mods/cursed-mod-for-fabric
 
 Website: https://link4real.github.io/cursed-mod.html
+
+<img src="https://i.imgur.com/8Vzs2Eo.png">
