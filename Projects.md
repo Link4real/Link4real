@@ -8,7 +8,7 @@ Website: https://link4real.github.io/plushie.html
 
 Source: https://github.com/Link4real/Plushie-Mod
 
-<img src="https://i.imgur.com/yXVPiJK.png">
+<img src="https://link4real.github.io/wiki/assets/plushie-features.png">
 
 # Cake Mod
 
@@ -20,7 +20,7 @@ Website: https://link4real.github.io/cake.html
 
 Source: https://github.com/Link4real/CakeMod
 
-<img src="https://i.imgur.com/bKzQHVe.png">
+<img src="https://i.imgur.com/lpduxNl.png">
 
 # FoodMod for Fabric
 
