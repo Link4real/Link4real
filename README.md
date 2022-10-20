@@ -1,18 +1,10 @@
-# IT'S ME, LINK 
+# Hello :)
 
 <img valign="middle" src="https://i.imgur.com/y5JmwC6.png" width="1200px">
 
 # o(*°▽°*)o
 
-I’m currently learning C#, Java and Html
-
-I joined Github at January 14, 2021!
-
-How to reach me: 
-
-Discord: Link_911#3798
-
-Fun fact: I like cookies!
+I retired
 
 ## Released Stuff:
 
