@@ -3,9 +3,6 @@
 <img valign="middle" src="https://i.imgur.com/y5JmwC6.png" width="1200px">
 
 # o(*°▽°*)o
-
-I retired
-
 ## Released Stuff:
 
 <p>View all projects<a href="Projects.md"> here</p>
