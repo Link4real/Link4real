@@ -1,7 +1,5 @@
 # Hello :)
 
-<img valign="middle" src="https://i.imgur.com/y5JmwC6.png" width="1200px">
-
 # o(*°▽°*)o
 ## Released Stuff:
 
