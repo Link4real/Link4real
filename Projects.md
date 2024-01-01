@@ -1,3 +1,11 @@
+# Whalestrom
+
+Modrinth: https://modrinth.com/mod/whalestrom
+
+Source: https://github.com/Link4real/Whalestrom
+
+<img src="https://i.imgur.com/rTa7vKa.png">
+
 # Plushie Mod
 
 Modrinth: https://modrinth.com/mod/plushie
@@ -8,7 +16,7 @@ Website: https://link4real.github.io/plushie.html
 
 Source: https://github.com/Link4real/Plushie-Mod
 
-<img src="https://link4real.github.io/wiki/assets/plushie-features.png">
+<img src="https://i.imgur.com/2qTGuSm.png">
 
 # Cake Mod
 
